@@ -80,11 +80,13 @@ lateinit var Stopwatch: Clock
              ^^^^^^^^^
 ``` 
 <br />
+
 비허용 : 
 ```kotlin
 lateinit var StopWatch: Clock
              ^^^^^^^^^
 ```
+
 
 # 변수-인자 네이밍
 1. 변수에 _ 접두사로 네이밍, 인자는 _ 없이 그대로 

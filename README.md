@@ -3,8 +3,9 @@
 > 원본 : [Google](https://developer.android.com/kotlin/style-guide?hl=ko)
 
 ### 들어가기 전
-`KDoc 구문` : `JavaScript`에서 사용되는 구석 스타일이며, `/**`으로 시작해서 `*/`으로 끝난다.<br />
-모든 블록은 @으로 시작한다.
+#### `KDoc` 구문
+1. `JavaScript`에서 사용되는 구석 스타일이며, `/**`으로 시작해서 `*/`으로 끝난다.
+2. 모든 블록은 `@`으로 시작한다.
 
 # 파일 구조
 1. 저작권 (선택, 주석)
